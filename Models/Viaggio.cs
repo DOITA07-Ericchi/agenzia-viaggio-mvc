@@ -14,11 +14,8 @@ namespace bootstrap_travel_agency_MVC.Models
         public List<Destinazione> ListaDestinazioni { get; set; } //Cambiata la relazione da 1 a n in n a n perché nell'esercizio base i viaggi potevano avere più destinazioni
 
         [Required]
-        public DateTime DataPartenza { get; set; }
-
-        [Required]
-        [Range(1,15)] //Gestiamo viaggi di massimo 15 settimane
-        public int SettimaneViaggio { get; set; }
+        [Range(1,90)] //Gestiamo viaggi di massimo 90 giorni
+        public int GiorniViaggio { get; set; }
 
         [Required]
         public double Prezzo { get; set; }

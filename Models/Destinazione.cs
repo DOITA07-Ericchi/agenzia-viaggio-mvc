@@ -10,14 +10,12 @@ namespace bootstrap_travel_agency_MVC.Models
         [Required]
         public string CittaArrivo { get; set; }
 
-        public string? PaeseArrivo { get; set; } //Null se uguale al paese di partenza
-
         public List<Viaggio> ViaggiPerDestinazione { get; set; }
 
 
         public override string ToString()
         {
-            return $"{CittaArrivo} - {PaeseArrivo}";
+            return $"{CittaArrivo}";
         }
     }
 }

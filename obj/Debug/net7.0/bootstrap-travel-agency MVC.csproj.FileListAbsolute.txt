@@ -1,75 +1,150 @@
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\bin\Debug\net7.0\appsettings.Development.json
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\bin\Debug\net7.0\appsettings.json
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\bin\Debug\net7.0\bootstrap-travel-agency MVC.staticwebassets.runtime.json
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\bin\Debug\net7.0\bootstrap-travel-agency MVC.exe
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\bin\Debug\net7.0\bootstrap-travel-agency MVC.deps.json
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\bin\Debug\net7.0\bootstrap-travel-agency MVC.runtimeconfig.json
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\bin\Debug\net7.0\bootstrap-travel-agency MVC.dll
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\bin\Debug\net7.0\bootstrap-travel-agency MVC.pdb
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\bin\Debug\net7.0\Azure.Core.dll
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\bin\Debug\net7.0\Azure.Identity.dll
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\bin\Debug\net7.0\Humanizer.dll
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\bin\Debug\net7.0\Microsoft.Identity.Client.dll
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\bin\Debug\net7.0\Mono.TextTemplating.dll
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\bin\Debug\net7.0\System.CodeDom.dll
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\bin\Debug\net7.0\System.Drawing.Common.dll
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\bin\Debug\net7.0\System.Memory.Data.dll
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\bin\Debug\net7.0\System.Runtime.Caching.dll
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\bin\Debug\net7.0\System.Security.Permissions.dll
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\bin\Debug\net7.0\System.Windows.Extensions.dll
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\obj\Debug\net7.0\bootstrap-travel-agency MVC.csproj.AssemblyReference.cache
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\obj\Debug\net7.0\bootstrap-travel-agency MVC.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\obj\Debug\net7.0\bootstrap-travel-agency MVC.AssemblyInfoInputs.cache
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\obj\Debug\net7.0\bootstrap-travel-agency MVC.AssemblyInfo.cs
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\obj\Debug\net7.0\bootstrap-travel-agency MVC.csproj.CoreCompileInputs.cache
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\obj\Debug\net7.0\bootstrap-travel-agency MVC.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\obj\Debug\net7.0\bootstrap-travel-agency MVC.RazorAssemblyInfo.cache
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\obj\Debug\net7.0\bootstrap-travel-agency MVC.RazorAssemblyInfo.cs
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\obj\Debug\net7.0\staticwebassets\msbuild.bootstrap-travel-agency MVC.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\obj\Debug\net7.0\staticwebassets\msbuild.build.bootstrap-travel-agency MVC.props
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.bootstrap-travel-agency MVC.props
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.bootstrap-travel-agency MVC.props
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\obj\Debug\net7.0\staticwebassets.pack.json
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\obj\Debug\net7.0\staticwebassets.build.json
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\obj\Debug\net7.0\staticwebassets.development.json
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\obj\Debug\net7.0\scopedcss\bundle\bootstrap-travel-agency MVC.styles.css
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\obj\Debug\net7.0\scopedcss\projectbundle\bootstrap-travel-agency MVC.bundle.scp.css
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\obj\Debug\net7.0\bootstrap-travel-agency MVC.csproj.CopyComplete
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\obj\Debug\net7.0\bootstrap-travel-agency MVC.dll
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\obj\Debug\net7.0\refint\bootstrap-travel-agency MVC.dll
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\obj\Debug\net7.0\bootstrap-travel-agency MVC.pdb
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\obj\Debug\net7.0\bootstrap-travel-agency MVC.genruntimeconfig.cache
-C:\Users\Fran_\Source\Repos\agenzia-viaggio-mvc\obj\Debug\net7.0\ref\bootstrap-travel-agency MVC.dll
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/bin/Debug/net7.0/appsettings.json
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/bin/Debug/net7.0/bootstrap-travel-agency MVC.staticwebassets.runtime.json
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/bin/Debug/net7.0/bootstrap-travel-agency MVC.exe
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/bin/Debug/net7.0/bootstrap-travel-agency MVC.deps.json
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/bin/Debug/net7.0/bootstrap-travel-agency MVC.runtimeconfig.json
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/bin/Debug/net7.0/bootstrap-travel-agency MVC.dll
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/bin/Debug/net7.0/bootstrap-travel-agency MVC.pdb
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/bin/Debug/net7.0/Azure.Core.dll
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/bin/Debug/net7.0/Azure.Identity.dll
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/bin/Debug/net7.0/Humanizer.dll
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/bin/Debug/net7.0/Mono.TextTemplating.dll
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/bin/Debug/net7.0/System.CodeDom.dll
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/bin/Debug/net7.0/System.Drawing.Common.dll
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/bin/Debug/net7.0/System.Memory.Data.dll
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/bin/Debug/net7.0/System.Runtime.Caching.dll
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/bin/Debug/net7.0/System.Security.Permissions.dll
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/bin/Debug/net7.0/System.Windows.Extensions.dll
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/obj/Debug/net7.0/bootstrap-travel-agency MVC.csproj.AssemblyReference.cache
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/obj/Debug/net7.0/bootstrap-travel-agency MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/obj/Debug/net7.0/bootstrap-travel-agency MVC.AssemblyInfoInputs.cache
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/obj/Debug/net7.0/bootstrap-travel-agency MVC.AssemblyInfo.cs
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/obj/Debug/net7.0/bootstrap-travel-agency MVC.csproj.CoreCompileInputs.cache
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/obj/Debug/net7.0/bootstrap-travel-agency MVC.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/obj/Debug/net7.0/bootstrap-travel-agency MVC.RazorAssemblyInfo.cache
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/obj/Debug/net7.0/bootstrap-travel-agency MVC.RazorAssemblyInfo.cs
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/obj/Debug/net7.0/staticwebassets/msbuild.bootstrap-travel-agency MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/obj/Debug/net7.0/staticwebassets/msbuild.build.bootstrap-travel-agency MVC.props
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.bootstrap-travel-agency MVC.props
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.bootstrap-travel-agency MVC.props
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/obj/Debug/net7.0/scopedcss/bundle/bootstrap-travel-agency MVC.styles.css
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/obj/Debug/net7.0/scopedcss/projectbundle/bootstrap-travel-agency MVC.bundle.scp.css
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/obj/Debug/net7.0/bootstrap-travel-agency MVC.csproj.CopyComplete
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/obj/Debug/net7.0/bootstrap-travel-agency MVC.dll
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/obj/Debug/net7.0/refint/bootstrap-travel-agency MVC.dll
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/obj/Debug/net7.0/bootstrap-travel-agency MVC.pdb
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/obj/Debug/net7.0/bootstrap-travel-agency MVC.genruntimeconfig.cache
+C:/Users/Fran_/Source/Repos/agenzia-viaggio-mvc/obj/Debug/net7.0/ref/bootstrap-travel-agency MVC.dll
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/obj/Debug/net7.0/bootstrap-travel-agency MVC.csproj.AssemblyReference.cache
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/obj/Debug/net7.0/bootstrap-travel-agency MVC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/obj/Debug/net7.0/bootstrap-travel-agency MVC.AssemblyInfoInputs.cache
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/obj/Debug/net7.0/bootstrap-travel-agency MVC.AssemblyInfo.cs
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/obj/Debug/net7.0/bootstrap-travel-agency MVC.csproj.CoreCompileInputs.cache
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/obj/Debug/net7.0/bootstrap-travel-agency MVC.MvcApplicationPartsAssemblyInfo.cache
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/obj/Debug/net7.0/bootstrap-travel-agency MVC.RazorAssemblyInfo.cache
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/obj/Debug/net7.0/bootstrap-travel-agency MVC.RazorAssemblyInfo.cs
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/obj/Debug/net7.0/bootstrap-travel-agency MVC.dll
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/obj/Debug/net7.0/refint/bootstrap-travel-agency MVC.dll
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/obj/Debug/net7.0/bootstrap-travel-agency MVC.pdb
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bin/Debug/net7.0/appsettings.Development.json
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bin/Debug/net7.0/appsettings.json
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bin/Debug/net7.0/bootstrap-travel-agency MVC.staticwebassets.runtime.json
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bin/Debug/net7.0/bootstrap-travel-agency MVC
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bin/Debug/net7.0/bootstrap-travel-agency MVC.deps.json
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bin/Debug/net7.0/bootstrap-travel-agency MVC.runtimeconfig.json
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bin/Debug/net7.0/bootstrap-travel-agency MVC.dll
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bin/Debug/net7.0/bootstrap-travel-agency MVC.pdb
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bin/Debug/net7.0/Azure.Core.dll
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bin/Debug/net7.0/Azure.Identity.dll
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bin/Debug/net7.0/Humanizer.dll
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bin/Debug/net7.0/System.CodeDom.dll
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/obj/Debug/net7.0/staticwebassets/msbuild.bootstrap-travel-agency MVC.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/obj/Debug/net7.0/staticwebassets/msbuild.build.bootstrap-travel-agency MVC.props
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.bootstrap-travel-agency MVC.props
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.bootstrap-travel-agency MVC.props
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/obj/Debug/net7.0/staticwebassets.build.json
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/obj/Debug/net7.0/staticwebassets.development.json
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/obj/Debug/net7.0/scopedcss/bundle/bootstrap-travel-agency MVC.styles.css
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/obj/Debug/net7.0/scopedcss/projectbundle/bootstrap-travel-agency MVC.bundle.scp.css
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/obj/Debug/net7.0/bootstrap-travel-agency MVC.csproj.CopyComplete
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/obj/Debug/net7.0/bootstrap-travel-agency MVC.genruntimeconfig.cache
+/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/obj/Debug/net7.0/ref/bootstrap-travel-agency MVC.dll
