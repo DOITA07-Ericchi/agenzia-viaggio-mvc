@@ -1,14 +1,15 @@
 ﻿@{
-				ViewData["Title"] = "Bootstrap Travel Agency";
+	ViewData["Title"] = "Bootstrap Travel Agency";
 
-				string cardcolore(int codice) {
-					switch(codice) {
-						case 0: return "info";
-						case 1: return "success";
-						case 2: return "warning";
-						default: return "";
-					}
-				}
+	string cardcolore(int codice) {
+		switch(codice) {
+			case 0: return "info";
+			case 1: return "success";
+			case 2: return "warning";
+			case 3: return "danger";
+			default: return "";
+		}
+	}
 			}
 
 			@model List<Viaggio>
