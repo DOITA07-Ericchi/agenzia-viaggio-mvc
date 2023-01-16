@@ -1,0 +1,26 @@
+@model Viaggio
+
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <div class="d-flex align-items-center">
+                <h1 class="mt-3 mb-3">Dettagli post</h1>
+            </div>
+            <div class="post-single-image-container">
+                <img src="@Viaggio.ImagePath">
+            </div>
+            <p>
+                <strong>Nome Viaggio:</strong>
+                @Model.NomeViaggio
+            </p>
+            <p>
+                <strong>Durata Viaggio:</strong>
+                @Model.GiorniViaggio
+            </p>
+            <p>
+                <strong>Prezzo:</strong>
+                @Model.Prezzo
+            </p>
+        </div>
+    </div>
+</div>
