@@ -11,7 +11,7 @@ namespace bootstrap_travel_agency_MVC.Databeezu
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Data Source=localhost;Database=TravelDB;Integrated Security=True;TrustServerCertificate=True");
+            optionsBuilder.UseSqlServer("Data Source=ericchi.moe;Database=TravelAgency;User Id=SA;Password=DatabaseCaconeDegenerato;TrustServerCertificate=True");
         }
     }
 }

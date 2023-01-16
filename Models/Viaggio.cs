@@ -17,7 +17,7 @@ namespace bootstrap_travel_agency_MVC.Models
         public DateTime DataPartenza { get; set; }
 
         [Required]
-        [Range(1,10)] //Gestiamo viaggi di massimo 10 settimane
+        [Range(1,15)] //Gestiamo viaggi di massimo 15 settimane
         public int SettimaneViaggio { get; set; }
 
         [Required]
