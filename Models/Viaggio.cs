@@ -10,8 +10,11 @@ namespace bootstrap_travel_agency_MVC.Models
         [Required]
         public string NomeViaggio { get; set; }
 
+        /* Questa roba non si fa più. Niente relazioni per ora, pls.
+         * 
         [Required]
         public List<Destinazione> ListaDestinazioni { get; set; } //Cambiata la relazione da 1 a n in n a n perché nell'esercizio base i viaggi potevano avere più destinazioni
+        */
 
         [Required]
         [Range(1,90)] //Gestiamo viaggi di massimo 90 giorni
