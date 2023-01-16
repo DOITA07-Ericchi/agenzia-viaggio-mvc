@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{DAED3EFE-C2E4-48F9-BE19-E101F148BD65}|https">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{DAED3EFE-C2E4-48F9-BE19-E101F148BD65}|https">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.bootstrap-travel-agency_220MVC FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.bootstrap-travel-agency_220MVC PreferredExecutionTarget="/Applications/LibreWolf.app" />
 </Properties>
