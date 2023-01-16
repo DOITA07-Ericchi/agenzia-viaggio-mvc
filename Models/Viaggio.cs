@@ -30,6 +30,5 @@ namespace bootstrap_travel_agency_MVC.Models
         public string ImagePath { get; set; }
 
 
-
     }
 }

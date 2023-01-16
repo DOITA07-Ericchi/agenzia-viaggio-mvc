@@ -15,5 +15,9 @@ namespace bootstrap_travel_agency_MVC.Models
         List<Viaggio>? ViaggiPerDestinazione { get; set; }
 
 
+        public override string ToString()
+        {
+            return $"{CittaArrivo} - {PaeseArrivo}";
+        }
     }
 }

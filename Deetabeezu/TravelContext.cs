@@ -6,8 +6,8 @@ namespace bootstrap_travel_agency_MVC.Databeezu
     public class TravelContext:DbContext
     {
 
-        DbSet<Destinazione> Destinazioni { get; set; }
-        DbSet<Viaggio> Viaggi { get; set; }
+        public DbSet<Destinazione> Destinazioni { get; set; }
+        public DbSet<Viaggio> Viaggi { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
