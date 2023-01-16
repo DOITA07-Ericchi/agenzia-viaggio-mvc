@@ -11,9 +11,7 @@ namespace bootstrap_travel_agency_MVC.Models
         public string NomeViaggio { get; set; }
 
         [Required]
-        public Destinazione Destinazione { get; set; }
-
-        public int DestinazioneId { get; set; }
+        List<Destinazione> ListaDestinazioni { get; set; } //Cambiata la relazione da 1 a n in n a n perché nell'esercizio base i viaggi potevano avere più destinazioni
 
         [Required]
         public DateTime DataPartenza { get; set; }

@@ -12,8 +12,8 @@ using bootstrap_travel_agency_MVC.Databeezu;
 namespace bootstraptravelagencyMVC.Migrations
 {
     [DbContext(typeof(TravelContext))]
-    [Migration("20230116115506_PrimaMigrazione")]
-    partial class PrimaMigrazione
+    [Migration("20230116121406_RicostruitoDatabase")]
+    partial class RicostruitoDatabase
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -59,9 +59,6 @@ namespace bootstraptravelagencyMVC.Migrations
                     b.Property<DateTime>("DataPartenza")
                         .HasColumnType("datetime2");
 
-                    b.Property<int>("DestinazioneId")
-                        .HasColumnType("int");
-
                     b.Property<string>("ImagePath")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -78,20 +75,7 @@ namespace bootstraptravelagencyMVC.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("DestinazioneId");
-
                     b.ToTable("Viaggi");
-                });
-
-            modelBuilder.Entity("bootstrap_travel_agency_MVC.Models.Viaggio", b =>
-                {
-                    b.HasOne("bootstrap_travel_agency_MVC.Models.Destinazione", "Destinazione")
-                        .WithMany()
-                        .HasForeignKey("DestinazioneId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Destinazione");
                 });
 #pragma warning restore 612, 618
         }
