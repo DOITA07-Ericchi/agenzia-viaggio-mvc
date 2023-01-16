@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bootstrap-travel-agency MVC", "bootstrap-travel-agency MVC.csproj", "{DAED3EFE-C2E4-48F9-BE19-E101F148BD65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAED3EFE-C2E4-48F9-BE19-E101F148BD65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAED3EFE-C2E4-48F9-BE19-E101F148BD65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAED3EFE-C2E4-48F9-BE19-E101F148BD65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAED3EFE-C2E4-48F9-BE19-E101F148BD65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {951A8EF4-D15F-4315-9B82-5093F608A0BC}
+	EndGlobalSection
+EndGlobal
