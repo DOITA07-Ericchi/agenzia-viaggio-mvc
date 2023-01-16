@@ -5,7 +5,7 @@ namespace bootstrap_travel_agency_MVC.Models
     public class Destinazione
     {
         [Key]
-        public int ID { get; set; }
+        public int DestinazioneId { get; set; }
 
         [Required]
         public string CittaArrivo { get; set; }
