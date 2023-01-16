@@ -12,7 +12,7 @@ namespace bootstrap_travel_agency_MVC.Models
 
         public string? PaeseArrivo { get; set; } //Null se uguale al paese di partenza
 
-        List<Viaggio>? ViaggiPerDestinazione { get; set; }
+        public List<Viaggio> ViaggiPerDestinazione { get; set; }
 
 
         public override string ToString()
