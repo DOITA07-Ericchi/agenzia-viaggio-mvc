@@ -1,26 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bootstrap-travel-agency MVC.csproj": {}
+    "C:\\Users\\Fran_\\Source\\Repos\\agenzia-viaggio-mvc\\bootstrap-travel-agency MVC.csproj": {}
   },
   "projects": {
-    "/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bootstrap-travel-agency MVC.csproj": {
+    "C:\\Users\\Fran_\\Source\\Repos\\agenzia-viaggio-mvc\\bootstrap-travel-agency MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bootstrap-travel-agency MVC.csproj",
+        "projectUniqueName": "C:\\Users\\Fran_\\Source\\Repos\\agenzia-viaggio-mvc\\bootstrap-travel-agency MVC.csproj",
         "projectName": "bootstrap-travel-agency MVC",
-        "projectPath": "/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/bootstrap-travel-agency MVC.csproj",
-        "packagesPath": "/Users/ericchi/.nuget/packages/",
-        "outputPath": "/Users/ericchi/Development/DOITA07/bootstrap-travel-agency MVC/obj/",
+        "projectPath": "C:\\Users\\Fran_\\Source\\Repos\\agenzia-viaggio-mvc\\bootstrap-travel-agency MVC.csproj",
+        "packagesPath": "C:\\Users\\Fran_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Fran_\\Source\\Repos\\agenzia-viaggio-mvc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/ericchi/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Fran_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,6 +39,18 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -57,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
