@@ -17,6 +17,9 @@ namespace bootstrap_travel_agency_MVC.Models
         */
 
         [Required]
+        public int NumDestinazioni { get; set; }
+
+        [Required]
         [Range(1,90)] //Gestiamo viaggi di massimo 90 giorni
         public int GiorniViaggio { get; set; }
 
